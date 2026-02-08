@@ -31,7 +31,7 @@ const BenefitsSection: React.FC = () => {
 
             <div className="hidden lg:block relative">
               <img
-                src={'/benefits-image.jpg'}
+                src="benefits-image.jpg"
                 alt="Equipe profissional"
                 className="rounded-2xl shadow-2xl"
               />

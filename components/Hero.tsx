@@ -47,7 +47,7 @@ const Hero: React.FC = () => {
           <div className="lg:col-span-5 relative hidden lg:block">
             <div className="relative z-10 overflow-hidden rounded-2xl shadow-2xl">
               <img
-                src={'public/hero-image.jpg'}
+                src={'/hero-image.jpg'}
                 alt="Profissionais em ambiente corporativo"
                 className="w-full h-auto object-cover"
               />
